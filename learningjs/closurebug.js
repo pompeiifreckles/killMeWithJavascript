@@ -3,7 +3,7 @@ function makeFunctionArray() {
 
 var i = 10
   for (var i = 0; i < 5; i++) {
-    arr.push( ((x) => {return () => console.log(x)})(i))
+    arr.push((x) => {return () => console.log(x)})
   }
 
   return arr
