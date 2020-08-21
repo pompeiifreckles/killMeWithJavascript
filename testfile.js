@@ -1,2 +1,3 @@
 console.log('Hello World')
-console.log('JK')
+console.log('killMeWithJavascript')
+console.log('Meow')
